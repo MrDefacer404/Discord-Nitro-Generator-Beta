@@ -15,13 +15,13 @@ options:
 2-check nitro code(coming soon)
 
 how to use:
---
-1_download file
+---
+1-download file
 
-2_open file location
+2-open file location
 
-3_get code "python Nitro.py"
+3-get code "python Nitro.py"
 
-4_select number ofcode
+4-select number of code
 
-5_go to script file "nitro codes.txt" 
+5-go to script file "nitro codes.txt" 
