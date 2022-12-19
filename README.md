@@ -12,7 +12,7 @@ how to use:
 
 2_open file location
 
-3_python Nitro.py
+3_get code "python Nitro.py"
 
 4_select number ofcode
 
