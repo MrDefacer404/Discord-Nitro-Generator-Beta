@@ -1,13 +1,16 @@
 Program made by Mr.Defacer404
--------------------------------
-options:
 
+
+
+
+options:
+---
 1-create nitro code
 
 2-check nitro code(coming soon)
--------------------------------
-how to use:
 
+how to use:
+--
 1_download file
 
 2_open file location
